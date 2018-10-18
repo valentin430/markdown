@@ -4,4 +4,4 @@
 
 This is my first markdown page.
 
-This html code is bold. **This text is bold**
+This html code is **bold.** 
